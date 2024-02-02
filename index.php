@@ -7,6 +7,7 @@
   echo "Hola Mundo";
   echo "<br>";
   echo "como estas?";
+  phpinfo();
   ?>
 </body>
 
