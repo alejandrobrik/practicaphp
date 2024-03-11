@@ -4,7 +4,7 @@
 
 <body>
   <?php
-  echo "Hola Mundo";
+  echo "Hola Mundo ya oe";
   echo "<br>";
   echo "como estas?";
   phpinfo();
